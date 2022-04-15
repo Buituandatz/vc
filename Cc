@@ -1,1 +1,1 @@
-Print("có con cặc")
+Print("có con cặec")
