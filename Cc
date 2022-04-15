@@ -47,7 +47,7 @@ minhduongcute="\033[1;91m[\033[1;92m×͜×\033[1;91m] \033[1;97m=>  \033[1;92m"
 sr = "\033[1;91m〘\033[1;92mNhật-\033[1;96mMinh\033[1;93mDương\033[1;97mc\033[1;91m〙 \033[1;33m"
 def banner():
  banner = f"""
- \033[0;32m Địt Mẹ Bonk Mày Lầm acuosoi
+ \033[0;32m Cuối Con cặc ok
             █▀▄▀█ █ █▄░█ █░█   █▀▄ █░█ █▀█ █▄░█ █▀▀
             █░▀░█ █ █░▀█ █▀█   █▄▀ █▄█ █▄█ █░▀█ █▄█
 {minhduongcute}\033[1;35mTOOL BUFF LIKE MACHINE-LIKER ĐA LUỒNG VIP 
